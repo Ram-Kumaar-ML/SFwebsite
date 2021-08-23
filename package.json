@@ -67,6 +67,10 @@
       {
         "plugin_name": "logsignatures",
         "display_name": "​Log Signatures"
+      },
+      {
+        "plugin_name": "logelt",
+        "display_name": "​Log ELT"
       } 
     ]
   }
