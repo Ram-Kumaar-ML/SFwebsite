@@ -138,7 +138,7 @@ Click on the ‘API Endpoints’ option for the project to view the API List. Co
 
 
 
-![Picture2](https://raw.githubusercontent.com/ram-dot-kumar/SFwebsite/blob/master/Log_Management/ELT_Jobs/Picture2.png)
+![Picture2](https://raw.githubusercontent.com/ram-dot-kumar/SFwebsite/master/Log_Management/ELT_Jobs/Picture2.png)
 
 
 
@@ -168,4 +168,4 @@ You will now see the summarized data in dashboard under ETL for job, stage and t
 
 
 
-![Picture3](https://raw.githubusercontent.com/ram-dot-kumar/SFwebsite/blob/master/Log_Management/ELT_Jobs/Picture3.png)
+![Picture3](https://raw.githubusercontent.com/ram-dot-kumar/SFwebsite/master/Log_Management/ELT_Jobs/Picture3.png)
