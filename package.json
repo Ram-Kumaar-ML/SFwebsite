@@ -69,8 +69,8 @@
         "display_name": "​Log Signatures"
       },
       {
-        "plugin_name": "logelt",
-        "display_name": "​Log ELT"
+        "plugin_name": "eltjobs",
+        "display_name": "ELT Jobs"
       } 
     ]
   }
